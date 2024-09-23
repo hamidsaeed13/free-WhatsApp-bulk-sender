@@ -1,3 +1,5 @@
+### This Software is configure for Pakistan. To reconfigure it change country code or contact: +92 301 2216201
+
 # WhatsApp Bot - Automated Messaging with AI-Powered Features
 
 This WhatsApp bot is a **100% free** and reliable desktop application designed to automate messaging tasks. 
