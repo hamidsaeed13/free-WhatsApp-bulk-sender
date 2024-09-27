@@ -4,6 +4,9 @@
 
 This WhatsApp bot is a **100% free** and reliable desktop application designed to automate messaging tasks. 
 ![App Preview](app_preview.png)
+
+## Sample File
+![Sample File](file_preview.png)
 ## Features
 
 - **Customized Message Sending:** 
